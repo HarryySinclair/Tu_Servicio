@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="LOGO CAM 2.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4570">
+      <stop
+         style="stop-color:#0081db;stop-opacity:1;"
+         offset="0"
+         id="stop4566" />
+      <stop
+         style="stop-color:#0081db;stop-opacity:0;"
+         offset="1"
+         id="stop4568" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4548">
+      <stop
+         style="stop-color:#0043e6;stop-opacity:1;"
+         offset="0"
+         id="stop4544" />
+      <stop
+         style="stop-color:#0043e6;stop-opacity:0;"
+         offset="1"
+         id="stop4546" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4548"
+       id="linearGradient4550"
+       x1="93.94326"
+       y1="103.4762"
+       x2="135.86623"
+       y2="103.4762"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95506541,0,0,0.92015349,4.5962345,8.375603)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4570"
+       id="radialGradient4572"
+       cx="114.90475"
+       cy="103.4762"
+       fx="114.90475"
+       fy="103.4762"
+       r="20.961487"
+       gradientTransform="matrix(0.95506541,0,0,0.93674571,4.5962345,6.6587054)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="413.83015"
+     inkscape:cy="502.85715"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion12"><rect
+           id="rect14"
+           width="140"
+           height="151.42857"
+           x="322.85715"
+           y="356.80539" /></flowRegion><flowPara
+         id="flowPara16" /></flowRoot>    <g
+       id="g4579"
+       transform="matrix(3.0977328,0,0,2.6920886,-248.16559,-107.62505)">
+      <ellipse
+         style="opacity:1;fill:url(#linearGradient4550);fill-opacity:1;stroke:url(#radialGradient4572);stroke-width:0.32397819;stroke-opacity:1"
+         ry="19.476582"
+         rx="19.854557"
+         cy="103.58961"
+         cx="114.33778"
+         id="path26" />
+      <text
+         transform="scale(1.0255584,0.97507858)"
+         id="text20"
+         y="118.72331"
+         x="97.179558"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.35661697px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#df0000;fill-opacity:1;stroke:#b35800;stroke-width:0.39954808;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.35661697px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#df0000;fill-opacity:1;stroke:#b35800;stroke-width:0.39954808;stroke-opacity:1"
+           y="118.72331"
+           x="97.179558"
+           id="tspan18"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         id="text24"
+         y="106.49999"
+         x="107.34523"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'ChunkFive Ex';-inkscape-font-specification:'ChunkFive Ex';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'ChunkFive Ex';-inkscape-font-specification:'ChunkFive Ex';stroke-width:0.26458332"
+           y="106.49999"
+           x="107.34523"
+           id="tspan22"
+           sodipodi:role="line">am</tspan></text>
+    </g>
+  </g>
+</svg>
